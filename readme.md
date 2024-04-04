@@ -1,2 +1,2 @@
-# The Default Planck Layout
+# Anni's Planck Keymap
 
